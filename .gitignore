@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+
+# Runtime data file created by the program
+students.csv
+
+# Editor / OS files
+.vscode/
+.idea/
+.DS_Store
